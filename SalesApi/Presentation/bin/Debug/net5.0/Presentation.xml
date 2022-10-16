@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:Presentation.Models.ExceptionModel">
+            <summary>
+            Модель, возвращаемая при возникновении исключения
+            </summary>
+        </member>
+        <member name="P:Presentation.Models.ExceptionModel.ErrorMessage">
+            <summary>
+            Текст ошибки из исключения
+            </summary>
+        </member>
+        <member name="P:Presentation.Models.ExceptionModel.Detail">
+            <summary>
+            Описание ошибки для отображения на клиенте
+            </summary>
+        </member>
+    </members>
+</doc>
